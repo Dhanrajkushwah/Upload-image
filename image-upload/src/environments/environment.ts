@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   _api: 'http://localhost:5000'
-  //_api: 'https://ecommercewebapp-neon.vercel.app'
+  //_api: 'https://upload-image-plum.vercel.app'
 };
 
 
